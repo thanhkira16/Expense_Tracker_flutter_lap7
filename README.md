@@ -285,12 +285,6 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 👤 Author
-
-**Bichle04**
-- GitHub: [@bichle04](https://github.com/bichle04)
-- Repository: [notes-app-flutter](https://github.com/bichle04/notes-app-flutter)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
