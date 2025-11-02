@@ -285,15 +285,6 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Support
-
-For support, email bichle04@example.com or open an issue in the repository.
-
----
 
 ## 📚 Learning Resources
 
